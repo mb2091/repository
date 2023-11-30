@@ -57,7 +57,6 @@ public class DLinkedListTest {
 	@Test
 	public void testInsertionSortEmpty() {
 		// don't add any values to the linked list dl
-		
 		// now call the insertionSort() method on dl
 		dl.insertionSort();
 		// test the size of the empty linked list
